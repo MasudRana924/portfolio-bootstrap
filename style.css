@@ -1,0 +1,56 @@
+body{
+    margin:0 auto;
+    font-family: sans-serif;
+    background-color:black;
+}
+.navbg{
+    background-color: black;
+}
+.navstyle{
+    margin-left: 110px;
+}
+.ul-style li{
+    padding-left: 20px;
+}
+.ul-style li a{
+    font-weight: 700;
+}
+.header{
+ 
+    height:600px;
+background-color: black;
+}
+
+.style{
+    font-weight: 700;
+}
+footer{
+    height:130px;
+    background-color:#160F0E;
+    text-align: center;
+    
+}
+.fab{
+    margin-top: 40px;
+    padding: 10px;
+   text-decoration: none;
+   margin-left: 10px;
+   font-size: 40px;
+    border-radius: 15px;  
+}
+.fa-facebook-square{
+   color: #3B5998;
+    background: white;  
+}
+.fa-instagram-square{
+    background: white;
+    color:lightsalmon;  
+}
+.fa-google{
+    background: white;
+    color:green;
+}
+.fa-github-square{
+    background:white;
+    color:black;
+}
